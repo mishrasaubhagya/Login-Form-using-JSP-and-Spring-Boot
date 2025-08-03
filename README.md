@@ -4,10 +4,10 @@ Simple Login Form using JSP and Spring Boot
 **ScreenShots:**
 
 **1) First Login Page **
-<img width="1597" height="648" alt="LoginPage" src="https://github.com/user-attachments/assets/9f183769-fd98-4eb2-9ebb-52ae1f59703f" />
+<img width="1603" height="640" alt="image" src="https://github.com/user-attachments/assets/8ecf65ee-7ce7-468f-a5e3-7ee9670d2c63" />
 
   **JSP Code:**
-<img width="1077" height="543" alt="image" src="https://github.com/user-attachments/assets/e709ede9-d613-4358-bcb4-2d176ada49ae" />
+<img width="1355" height="829" alt="image" src="https://github.com/user-attachments/assets/3166d0a7-1731-4c80-8274-7a2130a86dd7" />
 
   **LoginController Class:**
 <img width="1241" height="782" alt="image" src="https://github.com/user-attachments/assets/79a4b239-c964-4d30-8832-f9728605c1fa" />
@@ -16,8 +16,11 @@ Simple Login Form using JSP and Spring Boot
 <img width="1141" height="517" alt="image" src="https://github.com/user-attachments/assets/db1fb483-3b15-4c78-a230-adbcf8b1c9f6" />
 
 **2) Welcome Page**
+<img width="1603" height="531" alt="image" src="https://github.com/user-attachments/assets/36ec7c1f-caf6-4fd9-9be7-fd98d0804950" />
+
+
    **JSP Code(After click submit button it open Welcome page with userId):**
-   <img width="1665" height="501" alt="image" src="https://github.com/user-attachments/assets/a961e2d8-666e-45c9-ba9e-f4f31fe821d9" />
+<img width="1335" height="754" alt="image" src="https://github.com/user-attachments/assets/60818da9-ea6e-4659-a45e-b12402ef205c" />
 
 
 
